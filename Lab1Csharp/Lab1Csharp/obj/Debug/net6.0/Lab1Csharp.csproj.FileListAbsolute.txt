@@ -1,0 +1,15 @@
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\bin\Debug\net6.0\Lab1Csharp.exe
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\bin\Debug\net6.0\Lab1Csharp.deps.json
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\bin\Debug\net6.0\Lab1Csharp.runtimeconfig.json
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\bin\Debug\net6.0\Lab1Csharp.dll
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\bin\Debug\net6.0\Lab1Csharp.pdb
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\Lab1Csharp.csproj.AssemblyReference.cache
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\Lab1Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\Lab1Csharp.AssemblyInfoInputs.cache
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\Lab1Csharp.AssemblyInfo.cs
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\Lab1Csharp.csproj.CoreCompileInputs.cache
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\Lab1Csharp.dll
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\refint\Lab1Csharp.dll
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\Lab1Csharp.pdb
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\Lab1Csharp.genruntimeconfig.cache
+C:\Users\vv097\Desktop\Parallel\Lab1\Lab1C#\Lab1Csharp\Lab1Csharp\obj\Debug\net6.0\ref\Lab1Csharp.dll
